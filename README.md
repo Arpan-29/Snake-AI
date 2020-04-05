@@ -7,3 +7,5 @@ Classic snake game with AI.
 
 
 ## Second one is using A-star Pathfinding algorithm (Kind of a brute force type)
+
+![](gameplay2.gif)
