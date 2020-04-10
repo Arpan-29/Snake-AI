@@ -12,4 +12,7 @@ It looks one step ahead. Hence, finds most of the time trapping itself.
 
 ![](gameplay2.gif)
 
-This one finds the shortest path towards the apple. It suffers when there is no path as the snake's body covers it, and does random moves and dies most of the time.
+This one finds the shortest path towards the apple. It suffers when there is no path as the snake's body covers it, and does random moves and dies most of the time.  
+
+### How to start the game
+Press the Space
